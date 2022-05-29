@@ -94,6 +94,8 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
-</div>  
+</div> 
+
+<br/>  
 
 <div align="center">Using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> as base template</div>
