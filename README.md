@@ -86,9 +86,6 @@
 <a href="https://linkedin.com/in/pauloheli" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/302751" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 <br/>  
@@ -96,3 +93,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
 </div>  
+
+<div align="center">Using <a href="https://profilinator.rishav.dev/" target="_blank">as base template</a></div>
