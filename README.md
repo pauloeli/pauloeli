@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills
 <table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td valign="top" width="33%" style="border: none;">
 
 
