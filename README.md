@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact: for a few years I had a website with famous quotes.
 
+- 🥤 Don't forget to drink water.
+
 <br/>  
 
 ## Skills
