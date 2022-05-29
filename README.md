@@ -1,25 +1,10 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Paulo Henrique Eli</h1>
 
 <div align="center">I have Master degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, with over 15 years of experience in software analysis and development.</div>  
 
 - 🔭 I’m currently working in **Betha Sistemas** on **Research and Development**.
 
-
 - 🌱 I’m currently learning **Software Architecture**.
-
 
 - ⚡ Fun fact: for a few years I had a website with famous quotes.
 
@@ -106,16 +91,8 @@ blockquote {
 </a>  
 </div>  
 
-
-
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
 </div>  
-
-
-<br/>  
-
-
-<br />
