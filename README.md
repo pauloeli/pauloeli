@@ -1,26 +1,23 @@
 <h1 align="center">Hi 👋, I'm Paulo Henrique Eli</h1>
-  
+
 <div align="center">I have Master degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, with over 15 years of experience in software analysis and development.</div>  
-  
 
-- 🔭 I’m currently working in **Betha Sistemas** on **Research and Development**.  
-  
+- 🔭 I’m currently working in **Betha Sistemas** on **Research and Development**.
 
-- 🌱 I’m currently learning **Software Architecture**.  
-  
 
-- ⚡ Fun fact: for a few years I had a website with famous quotes.  
-  
+- 🌱 I’m currently learning **Software Architecture**.
+
+
+- ⚡ Fun fact: for a few years I had a website with famous quotes.
 
 <br/>  
 
-
 ## Skills
-<table style="border:hidden;"><tr style="border:hidden;"><td valign="top" width="33%">
 
+<table><tr><td valign="top" width="33%" style="border:hidden;">
 
+### Frontend
 
-### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -34,11 +31,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
-</td><td valign="top" width="33%" style="border: none;">
+</td><td valign="top" width="33%" style="border:hidden;">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
@@ -58,11 +54,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
-</td><td valign="top" width="33%" style="border: none;">
+</td><td valign="top" width="33%" style="border:hidden;">
 
+### DevOps & Databases
 
-
-### DevOps & Databases  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
@@ -84,8 +79,8 @@
 
 <br/>  
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/pauloeli" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -97,7 +92,7 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
 
 
 <br/>  
@@ -105,12 +100,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
 </div>  
-  
+
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> and others customizations.</div>
