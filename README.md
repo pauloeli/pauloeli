@@ -1,8 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h1 align="center">Hi 👋, I'm Paulo Henrique</h1>
   
-
 <div align="center">I'm Paulo Henrique Eli, I have Master degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, with over 15 years of experience in software analysis and development.</div>  
   
 
@@ -106,7 +103,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
 </div>  
   
 
