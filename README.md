@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table cellspacing="0" cellpadding="0"><tr><td valign="top" width="33%">
+<table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td valign="top" width="33%" style="border: none;">
 
 
 
@@ -37,7 +37,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
 
 
@@ -61,7 +61,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
 
 
