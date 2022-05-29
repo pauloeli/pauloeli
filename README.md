@@ -16,7 +16,7 @@
 
 
 ## Skills
-<table style="border-collapse: collapse; border: none;"><tr style="border: none;"><td valign="top" width="33%" style="border: none;">
+<table style="border:hidden;"><tr style="border:hidden;"><td valign="top" width="33%">
 
 
 
