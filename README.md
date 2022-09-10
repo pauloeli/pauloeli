@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%"  alt="Greetings"/>
-</div>  
-
 <div align="center">I'm Paulo Henrique Eli. I have Master degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, with over 15 years of experience in software analysis and development.</div>  
 
 - 🔭 I’m currently working in **Betha Sistemas** on **Research and Development**.
