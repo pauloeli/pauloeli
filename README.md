@@ -1,5 +1,4 @@
-<div align="center">I'm Paulo Henrique Eli.<br/><br/>
-
+<div align="center">
 Master’s degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, I’ve been working with software development since 2007.
  
 Currently focused on developing software architecture capabilities, DevOps, Soft Skills and playing with new technologies.
