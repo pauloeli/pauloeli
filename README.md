@@ -1,12 +1,18 @@
 <div align="center">
-Master’s degree in Information and Communication Technologies from the Federal University of Santa Catarina (UFSC) and Software Architect, I’ve been working with software development since 2007.
- 
-Currently focused on developing software architecture capabilities, DevOps, Soft Skills and playing with new technologies.
- 
-In the academic field, interest in the area of teaching programming and programming logic, focusing on the development of tools and platforms that facilitate the study of this discipline.
- 
-My certificates are available here:
-http://bit.ly/2HWU2Qv
+
+Hello, my name is Paulo Henrique Eli. I have a Master’s degree in Information and Communication Technologies from the
+Federal University of Santa Catarina (UFSC) and work as a Software Architect.
+
+I have been working in the software development field since 2007, starting with Intersystems Cache, Javascript, and
+Delphi technologies. Over the past 7 years, I have focused on software architecture, Java - Spring, Micronaut, Java
+EE - and DevOps.
+
+In an academic context, I have a strong interest in teaching programming logic and fundamentals, with a focus on
+developing tools and platforms that facilitate the study of this discipline. By the way, if you’re interested, you can
+read my dissertation on teaching methodologies for software
+development [at this address](https://repositorio.ufsc.br/handle/123456789/185430). It will provide a better
+understanding of the research I conducted for a year with over 200 students, exploring their profiles and how to develop
+effective exercises and materials.
 </div>  
 
 - I’m currently working in **Betha Sistemas** on **Research and Development**.
@@ -87,18 +93,20 @@ http://bit.ly/2HWU2Qv
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/pauloeli" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/pauloheli" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+    <a href="https://linkedin.com/in/pauloheli" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+</div>
+<div align="center">
+    <a href="https://pauloeli.dev" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+</div>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=pauloeli&&style=flat-square" align="center" />
 </div> 
 
 <br/>  
