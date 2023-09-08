@@ -2,7 +2,7 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pauloeli/)](https://github.com/pauloeli/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pauloeli/)](https://www.linkedin.com/in/pauloeli/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/302751/kran1um)](https://stackoverflow.com/users/302751/kran1um)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/302751/pauloh)](https://stackoverflow.com/users/302751/pauloh)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A??style=flat-square&logo=dev.to&logoColor=white)](https://www.pauloeli.dev/en/)
 
 ✋ I'm a Software Architect with back-end development as major knowledge.
