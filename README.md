@@ -16,6 +16,8 @@ worked closely with over 200 students, exploring their profiles and developing e
 can find my dissertation on teaching methodologies for software
 development [here](https://repositorio.ufsc.br/handle/123456789/185430).
 
+You can visualize my full [resume](https://www.pauloeli.dev/resume/paulo.eli.eng.pdf).
+
 **Languages and Tools:**
 
 <div align="center">  
