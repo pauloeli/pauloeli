@@ -7,7 +7,7 @@
 
 ✋ I'm a Software Architect with back-end development as major knowledge.
 
-🖥️ I've been immersed in the world of software development since 2007. In the past 7 years, I've honed my expertise in
+🖥️ I've been immersed in the world of software development since 2007. In the past 15+ years, I've honed my expertise in
 software architecture, specialy in Java and DevOps practices.
 
 🎓 I'm passionate about teaching programming logic and fundamentals, driven by a commitment to creating tools and
