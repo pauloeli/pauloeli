@@ -5,16 +5,12 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/302751/pauloh)](https://stackoverflow.com/users/302751/pauloh)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A??style=flat-square&logo=dev.to&logoColor=white)](https://pauloeli.dev/en/)
 
-✋ I'm a Software Architect with back-end development as major knowledge.
+👋 I'm a Software Architect with expertise in back-end development, particularly in Java and DevOps.
 
-🖥️ I've been immersed in the world of software development since 2007. In the past 15+ years, I've honed my expertise in
-software architecture, specialy in Java and DevOps practices.
+💻 I've been working in software development since 2007, gaining over 15 years of hands-on experience in building robust, scalable systems and designing resilient architectures.
 
-🎓 I'm passionate about teaching programming logic and fundamentals, driven by a commitment to creating tools and
-platforms that facilitate the learning process. If you're interested, you can delve into my year-long research, where I
-worked closely with over 200 students, exploring their profiles and developing effective exercises and materials. You
-can find my dissertation on teaching methodologies for software
-development [here](https://repositorio.ufsc.br/handle/123456789/185430).
+🎓 I'm passionate about teaching programming fundamentals and logic. My year-long research involved over 200 students, where I developed and tested exercises to improve software learning methodologies.  
+📄 You can read my dissertation on effective programming education [here](https://repositorio.ufsc.br/handle/123456789/185430).
 
 **Languages and Tools:**
 
