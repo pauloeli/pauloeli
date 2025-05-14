@@ -10,6 +10,7 @@
 💻 I've been working in software development since 2007, gaining over 15 years of hands-on experience in building robust, scalable systems and designing resilient architectures.
 
 🎓 I'm passionate about teaching programming fundamentals and logic. My year-long research involved over 200 students, where I developed and tested exercises to improve software learning methodologies.  
+
 📄 You can read my dissertation on effective programming education [here](https://repositorio.ufsc.br/handle/123456789/185430).
 
 **Languages and Tools:**
